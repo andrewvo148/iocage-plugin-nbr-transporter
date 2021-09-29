@@ -1,7 +1,7 @@
 {
     "name": "nbr-transporter",
     "release": "12.2-RELEASE",
-    "artifact": "https://github.com/NAKIVO/iocage-plugin-nbr-transporter.git",
+    "artifact": "https://github.com/andrewvo148/iocage-plugin-nbr-transporter.git",
     "properties": {
         "allow_raw_sockets": "1",
         "boot": "on"
