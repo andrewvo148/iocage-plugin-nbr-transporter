@@ -7,7 +7,7 @@
         "boot": "on"
     },
     "pkgs": [
-        "ftp/curl"
+       
     ],
     "packagesite": "http://pkg.freebsd.org/${ABI}/quarterly",
     "fingerprints": {
